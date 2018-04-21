@@ -3,8 +3,7 @@
 Test React code with Jest, debug with Chrome, check type with flow, and optimize your code with ESLint
 
 - Course on [LinkedIn][1] by [Emmanuel Henri][2]
-
-Author: [Francis Rodrigues][3]
+- Author from this repo: [Francis Rodrigues][3]
 
 ## Create React App ##
 
@@ -12,7 +11,33 @@ This project was bootstrapped with [Create React App][4].
 
 ## Screenshot ##
 
-![See the screenshot](./screenshot.png)
+![See the screenshot](./screenshots/default.png)
+
+## Running tests ##
+
+We can run tests by console running the `yarn test` as below:
+
+```bash
+~$ yarn test
+```
+
+![Screenshot with tests](./screenshots/running-tests.png)
+
+## Profile components with Chrome timeline ##
+
+Access the local url to enable the feature.
+
+```txt
+http://localhost:3000/?react-perf
+```
+
+In this case, we'll follow through the Google Chrome console to page load performance.
+
+![Page load record](./screenshots/page-load-record.png)
+
+and we can see the result below:
+
+![Performance output](./screenshots/performance.png)
 
 ## References ##
 
