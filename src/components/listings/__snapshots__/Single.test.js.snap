@@ -6,14 +6,18 @@ exports[`Single snapshots Single snapshot test 1`] = `
     <div
       className="card-image">
       <img
-        alt={undefined}
-        src={undefined} />
+        alt="Building an App with ReactJS and MeteorJS"
+        src="https://cdn.lynda.com/course/533228/533228-636179098122239600-16x9.jpg" />
     </div>
     <div
       className="card-content">
       <span
-        className="card-title" />
-      <p />
+        className="card-title">
+        Building an App with ReactJS and MeteorJS
+      </span>
+      <p>
+        Meteor and React are a powerhouse combination. Meteor gives you a fast, easy-to-use solution for data management across clients and servers, and React gives you a way to structure your app\'s UI from reusable components. The combination allows you to create your dream apps: dynamic, data driven, and cross-platform.
+      </p>
       <div
         className="row">
         <div
@@ -21,6 +25,7 @@ exports[`Single snapshots Single snapshot test 1`] = `
           <blockquote>
             <h5>
               Released: 
+              12/21/2016
             </h5>
           </blockquote>
         </div>
@@ -29,6 +34,7 @@ exports[`Single snapshots Single snapshot test 1`] = `
           <blockquote>
             <h5>
               Views: 
+              31,266
             </h5>
           </blockquote>
         </div>
@@ -37,7 +43,7 @@ exports[`Single snapshots Single snapshot test 1`] = `
     <div
       className="card-action">
       <a
-        href={undefined}
+        href="https://www.lynda.com/React-js-tutorials/Building-App-React-js-MeteorJS/533228-2.html"
         target="_blank">
         Link to course
       </a>
