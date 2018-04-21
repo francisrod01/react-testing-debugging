@@ -1,0 +1,48 @@
+exports[`Single snapshots Single snapshot test 1`] = `
+<li
+  className="col l6 s12">
+  <div
+    className="card">
+    <div
+      className="card-image">
+      <img
+        alt={undefined}
+        src={undefined} />
+    </div>
+    <div
+      className="card-content">
+      <span
+        className="card-title" />
+      <p />
+      <div
+        className="row">
+        <div
+          className="col l6 center">
+          <blockquote>
+            <h5>
+              Released: 
+            </h5>
+          </blockquote>
+        </div>
+        <div
+          className="col l6 center">
+          <blockquote>
+            <h5>
+              Views: 
+            </h5>
+          </blockquote>
+        </div>
+      </div>
+    </div>
+    <div
+      className="card-action">
+      <a
+        href={undefined}
+        target="_blank">
+        Link to course
+      </a>
+    </div>
+  </div>
+  <br />
+</li>
+`;
