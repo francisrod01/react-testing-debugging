@@ -1,0 +1,11 @@
+[ignore]
+*./*history/
+*./*node_modules/
+
+[include]
+
+[libs]
+
+[options]
+
+[strict]

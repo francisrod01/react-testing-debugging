@@ -1,0 +1,28 @@
+# Build directories 
+dist/
+build/
+
+# Dependencies directories
+node_modules/
+
+# Environment files
+*env
+.env*
+
+# Dependencies lock files
+*-lock.json
+*.lock
+
+# Log files
+*.log
+
+# Cache directories
+.sass-cache
+temp
+.tmp/
+
+# VsCode features
+.history/
+
+# VsCode editor config
+.editorconfig
