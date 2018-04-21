@@ -4,9 +4,17 @@ import './App.css';
 import Grid from './listings/Grid';
 import courses from '../data/courses.json';
 
-export default class App extends Component {
-  constructor(props) {
+
+type Props = {};
+
+type State = {
+  courses: [],
+};
+
+export default class App extends Component<Props, State> {
+  constructor(props: any) {
     super(props);
+
     this.state = { courses };
   }
 

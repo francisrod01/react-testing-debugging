@@ -44,6 +44,7 @@ exports[`Single snapshots Single snapshot test 1`] = `
       className="card-action">
       <a
         href="https://www.lynda.com/React-js-tutorials/Building-App-React-js-MeteorJS/533228-2.html"
+        rel="noopener noreferrer"
         target="_blank">
         Link to course
       </a>
